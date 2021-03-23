@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Google chỉ đường từ nhà đến trường</title>
+    <style type="text/css">
+        #map {
+            height: 400px;
+            width: 200px;
+        }
+    </style>
+</head>
+<body>
+    <h3>Đây là nơi đặt bản đồ</h3> 
+    <div id="map"></div>
+    <script>
+        src = "https://maps.googleapis.com/maps/api/js?key = AIzaSyCZ4WeAHvdngqf8AtUwvSi0b1rruN__wXw & callback=initMap & libraries=& v=weekly"
+        function initMap() {
+            const GTVTPHHCM = { lat: 10.845470, lng: 106.794670 };
+            const map = new google.maps.Map(document.getElementById("map"), {
+                zoom: 12;
+                center: GTVTPHHCM;
+
+            });
+        }
+
+        
+    </script>
+    
+</body>
+</html>
