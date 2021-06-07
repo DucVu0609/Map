@@ -1,9 +1,9 @@
 
 **THỰC TẬP CHUYÊN MÔN NĂM HỌC 2020-2021**
 
-Họ và tên: Trần Đức Vũ
-Mã số sinh viên: 5951071123
-Lớp: Công nghệ thông tin K59
+*Họ và tên: Trần Đức Vũ
+*Mã số sinh viên: 5951071123
+*Lớp: Công nghệ thông tin K59
 
 Đề tài: **XÂY DỰNG WEBSITE ĐẶT VÉ XEM PHIM**
 
