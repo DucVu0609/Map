@@ -10,8 +10,7 @@
 **Phần I: Các công nghệ được sử dụng:**
 - Ngôn ngữ lập trình Javascript, PHP
 - HTML, CSS, HTML5, CSS3, Jquery
-- MySQL - kết hợp với PHP để phân quyền trong đăng nhập
-- Công cụ Visual Studio Code, Xampp, ..
+
 
 **Phần II: Các chức năng đã hoàn thành**
 - Đăng ký tài khoản thành viên
